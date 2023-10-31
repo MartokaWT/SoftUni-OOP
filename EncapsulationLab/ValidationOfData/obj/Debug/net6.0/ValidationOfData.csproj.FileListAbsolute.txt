@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\bin\Debug\net6.0\ValidationOfData.exe
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\bin\Debug\net6.0\ValidationOfData.deps.json
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\bin\Debug\net6.0\ValidationOfData.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\bin\Debug\net6.0\ValidationOfData.dll
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\bin\Debug\net6.0\ValidationOfData.pdb
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\ValidationOfData.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\ValidationOfData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\ValidationOfData.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\ValidationOfData.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\ValidationOfData.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\ValidationOfData.dll
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\refint\ValidationOfData.dll
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\ValidationOfData.pdb
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\ValidationOfData.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\ValidationOfData\obj\Debug\net6.0\ref\ValidationOfData.dll

@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\Team\obj\Debug\net6.0\Team.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\Team\obj\Debug\net6.0\Team.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\Team\obj\Debug\net6.0\Team.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\Team\obj\Debug\net6.0\Team.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni-OOP\EncapsulationLab\Team\obj\Debug\net6.0\Team.csproj.CoreCompileInputs.cache
