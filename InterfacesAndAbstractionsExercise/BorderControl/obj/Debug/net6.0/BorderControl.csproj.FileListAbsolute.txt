@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\SoftUni-OOP\InterfacesAndAbstractionsExercise\BorderControl\obj\Debug\net6.0\BorderControl.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni-OOP\InterfacesAndAbstractionsExercise\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni-OOP\InterfacesAndAbstractionsExercise\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\InterfacesAndAbstractionsExercise\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni-OOP\InterfacesAndAbstractionsExercise\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
