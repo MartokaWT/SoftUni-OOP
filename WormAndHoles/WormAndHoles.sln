@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WormAndHoles", "WormAndHoles\WormAndHoles.csproj", "{73253950-9C00-4AFD-949F-96B86390CCCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGamblerProblem", "TheGamblerProblem\TheGamblerProblem.csproj", "{3AC274AB-03C2-4D3D-97FB-9214050BE519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73253950-9C00-4AFD-949F-96B86390CCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73253950-9C00-4AFD-949F-96B86390CCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73253950-9C00-4AFD-949F-96B86390CCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73253950-9C00-4AFD-949F-96B86390CCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC274AB-03C2-4D3D-97FB-9214050BE519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC274AB-03C2-4D3D-97FB-9214050BE519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC274AB-03C2-4D3D-97FB-9214050BE519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC274AB-03C2-4D3D-97FB-9214050BE519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1780C91-C3D6-4C3D-BCC5-0F5BB85E34F2}
+	EndGlobalSection
+EndGlobal

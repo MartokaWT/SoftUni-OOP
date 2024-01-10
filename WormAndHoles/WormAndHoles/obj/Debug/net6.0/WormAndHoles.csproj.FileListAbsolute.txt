@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\bin\Debug\net6.0\WormAndHoles.exe
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\bin\Debug\net6.0\WormAndHoles.deps.json
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\bin\Debug\net6.0\WormAndHoles.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\bin\Debug\net6.0\WormAndHoles.dll
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\bin\Debug\net6.0\WormAndHoles.pdb
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\WormAndHoles.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\WormAndHoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\WormAndHoles.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\WormAndHoles.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\WormAndHoles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\WormAndHoles.dll
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\refint\WormAndHoles.dll
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\WormAndHoles.pdb
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\WormAndHoles.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\WormAndHoles\obj\Debug\net6.0\ref\WormAndHoles.dll

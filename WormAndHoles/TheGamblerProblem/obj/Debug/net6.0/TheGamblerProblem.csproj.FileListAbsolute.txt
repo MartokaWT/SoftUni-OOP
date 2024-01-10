@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\bin\Debug\net6.0\TheGamblerProblem.exe
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\bin\Debug\net6.0\TheGamblerProblem.deps.json
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\bin\Debug\net6.0\TheGamblerProblem.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\bin\Debug\net6.0\TheGamblerProblem.dll
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\bin\Debug\net6.0\TheGamblerProblem.pdb
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\TheGamblerProblem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\TheGamblerProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\TheGamblerProblem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\TheGamblerProblem.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\TheGamblerProblem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\TheGamblerProblem.dll
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\refint\TheGamblerProblem.dll
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\TheGamblerProblem.pdb
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\TheGamblerProblem.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni-OOP\WormAndHoles\TheGamblerProblem\obj\Debug\net6.0\ref\TheGamblerProblem.dll
