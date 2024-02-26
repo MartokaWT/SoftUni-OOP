@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.exe
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.deps.json
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.dll
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.pdb
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.dll
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\refint\CreateAttribute.dll
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.pdb
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni-OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\net6.0\ref\CreateAttribute.dll
